@@ -8,7 +8,7 @@ We also feature **mentors** from the industry to share their experiences and ins
 
 | **Session**                    | **Start Date**             | **Location**             | **Join Link**       |
 |---------------------------------|----------------------|--------------------------|---------------------|
-| Summer Cohort  | May 31, 2025           | Online (Virtual Breakout Rooms)            | [Join Here](https://myrealproduct.com/)      |
+| August Cohort  | Aug 16, 2025           | Online (Virtual Breakout Rooms)            | [Join Here](https://myrealproduct.com/)      |
 
 ---
 
