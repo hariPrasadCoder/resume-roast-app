@@ -6,9 +6,9 @@ Welcome to **MyRealProduct Workshop**! Whether you are a beginner or looking to 
 
 We also feature **mentors** from the industry to share their experiences and insights!
 
-| **Session**                    | **Start Date**             | **Location**             | **Join Link**       |
+| **Session**                    | **Application Deadline**             | **Location**             | **Join Link**       |
 |---------------------------------|----------------------|--------------------------|---------------------|
-| August Cohort  | Aug 16, 2025           | Online (Virtual Breakout Rooms)            | [Join Here](https://myrealproduct.com/)      |
+| Spring Cohort  | Mar 3, 2026           | Online (Virtual Breakout Rooms)            | [Join Here](https://myrealproduct.com/)      |
 
 ---
 
